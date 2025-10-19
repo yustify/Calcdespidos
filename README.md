@@ -1,0 +1,2 @@
+# Calcdespidos
+Calculadora de despidos
